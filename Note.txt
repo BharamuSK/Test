@@ -1,4 +1,3 @@
-Hi Bharamu S K
 
 echo "# Test" >> README.md
 git init
