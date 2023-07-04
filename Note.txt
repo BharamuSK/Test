@@ -9,3 +9,7 @@ git remote add origin https://github.com/BharamuSK/Test.git
 git push -u origin main
 
 git remote -v (to check the wheather we have pull or push permision or not)
+
+
+Thanks Regards
+Bharamu S K
